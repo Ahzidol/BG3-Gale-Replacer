@@ -92,9 +92,9 @@
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Characters/_Anims/Humans/_Male/HUM_M_NKD_Head_Gale_Base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/VAHAELAR/VahaelarHUM_Base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Public/Shared/Assets/Characters/_Anims/Humans/_Male/HUM_M_NKD_Head_Gale_Base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/VAHAELAR/VahaelarHUM_Base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Bones">
@@ -8195,9 +8195,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Humans/_Male/Resources/HUM_M_NKD_Head_Gale.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/VAHAELAR/VahaelarHUM.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Humans/_Male/Resources/HUM_M_NKD_Head_Gale.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/VAHAELAR/VahaelarHUM.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -8344,9 +8344,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Humans/_Male/Resources/HUM_M_NKD_Head_Gale.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/VAHAELAR/VahaelarHUM.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Humans/_Male/Resources/HUM_M_NKD_Head_Gale.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/VAHAELAR/VahaelarHUM.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209026" />
 					<children>
 						<node id="AnimationSetOverrides">
@@ -8493,9 +8493,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Anims/Humans/_Male/Resources/HUM_M_NKD_Head_Gale.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/VAHAELAR/VahaelarHUM.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Anims/Humans/_Male/Resources/HUM_M_NKD_Head_Gale.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/VAHAELAR/VahaelarHUM.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277484" />
 					<children>
 						<node id="AnimationSetOverrides">
