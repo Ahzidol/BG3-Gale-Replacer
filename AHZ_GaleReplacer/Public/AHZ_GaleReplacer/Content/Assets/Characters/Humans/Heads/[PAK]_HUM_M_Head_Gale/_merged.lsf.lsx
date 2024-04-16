@@ -5331,7 +5331,7 @@
 					<attribute id="ID" type="FixedString" value="2df4f22f-ff61-aa47-47dd-449040de203d" />
 					<attribute id="Name" type="LSString" value="HUM_M_NKD_Head_Gale_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/HUM_M_NKD/HUM_M_Gale/Resources/HUM_M_NKD_Head_Gale_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/VAHAELAR/VahaelarHUM_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HUM_M_NKD_Head_Gale_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -5344,7 +5344,7 @@
 					<attribute id="ID" type="FixedString" value="3dc5d0c9-2ec9-2f0b-f964-b3100321278c" />
 					<attribute id="Name" type="LSString" value="HUM_M_NKD_Head_Gale_NoTattoo_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/HUM_M_NKD/HUM_M_Gale/Resources/HUM_M_NKD_Head_Gale_NoTattoo_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/VAHAELAR/VahaelarHUM_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HUM_M_NKD_Head_Gale_NoTattoo_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -5371,7 +5371,7 @@
 					<attribute id="ID" type="FixedString" value="88564627-9605-b168-e953-0fc49119e3e2" />
 					<attribute id="Name" type="LSString" value="HUM_M_NKD_Head_Gale_NoTattoo_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/HUM_M_NKD/HUM_M_Gale/Resources/HUM_M_NKD_Head_Gale_NoTattoo_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/VAHAELAR/VahaelarHUM_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HUM_M_NKD_Head_Gale_NoTattoo_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -5397,7 +5397,7 @@
 					<attribute id="ID" type="FixedString" value="a767f8c1-6013-c644-d77d-cd51ca285817" />
 					<attribute id="Name" type="LSString" value="HUM_M_NKD_Head_Gale_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Humans/HUM_M_NKD/HUM_M_Gale/Resources/HUM_M_NKD_Head_Gale_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/VAHAELAR/VahaelarHUM_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="HUM_M_NKD_Head_Gale_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
