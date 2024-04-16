@@ -8250,11 +8250,6 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh.7" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Scalp_Mesh.8" />
 						</node>
@@ -8267,11 +8262,6 @@
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="f5ebdf12-c6f6-3521-49ff-cfe1c92cfa2e" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Ears_Mesh_LOD1.10" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD1.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
@@ -8290,11 +8280,6 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD2.15" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="2" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Scalp_Mesh_LOD2.16" />
 						</node>
@@ -8309,19 +8294,9 @@
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Ears_Mesh_LOD3.18" />
 						</node>
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD3.19" />
-						</node>
-						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
 							<attribute id="MaterialID" type="FixedString" value="f5ebdf12-c6f6-3521-49ff-cfe1c92cfa2e" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Mesh_LOD4.20" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD4.21" />
 						</node>
 					</children>
 				</node>
@@ -8399,11 +8374,6 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh.7" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Scalp_Mesh.8" />
 						</node>
@@ -8416,11 +8386,6 @@
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="9a557f86-d366-aee6-e69f-eea570de742c" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Ears_Mesh_LOD1.10" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD1.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
@@ -8439,11 +8404,6 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD2.15" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="2" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Scalp_Mesh_LOD2.16" />
 						</node>
@@ -8458,19 +8418,9 @@
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Ears_Mesh_LOD3.18" />
 						</node>
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD3.19" />
-						</node>
-						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
 							<attribute id="MaterialID" type="FixedString" value="3a38384b-60c2-0a55-07f1-cdbd38ec144b" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Mesh_LOD4.20" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="1d48d280-e00f-0999-d0de-19b7d2eab0d6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD4.21" />
 						</node>
 					</children>
 				</node>
@@ -8548,11 +8498,6 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh.7" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Scalp_Mesh.8" />
 						</node>
@@ -8565,11 +8510,6 @@
 							<attribute id="LOD" type="uint8" value="1" />
 							<attribute id="MaterialID" type="FixedString" value="fd953137-28e1-9d3e-d850-ace585f4cdad" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Ears_Mesh_LOD1.10" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD1.11" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
@@ -8588,11 +8528,6 @@
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="2" />
-							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD2.15" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="2" />
 							<attribute id="MaterialID" type="FixedString" value="161b5402-7aea-e244-bf32-9aff5ba3c5c7" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Scalp_Mesh_LOD2.16" />
 						</node>
@@ -8607,19 +8542,9 @@
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Ears_Mesh_LOD3.18" />
 						</node>
 						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="3" />
-							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD3.19" />
-						</node>
-						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="4" />
 							<attribute id="MaterialID" type="FixedString" value="fd953137-28e1-9d3e-d850-ace585f4cdad" />
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.HUM_M_NKD_Head_Gale_Mesh_LOD4.20" />
-						</node>
-						<node id="Objects">
-							<attribute id="LOD" type="uint8" value="4" />
-							<attribute id="MaterialID" type="FixedString" value="4afc09ee-f55d-97f6-7ac7-a285aeda675f" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Head_Gale.PRC_Gale_Mystra_R_Mesh_LOD4.21" />
 						</node>
 					</children>
 				</node>
